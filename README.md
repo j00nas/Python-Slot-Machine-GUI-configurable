@@ -1,8 +1,8 @@
 # Python-Slot-Machine-GUI-configurable
 
 This is a configurable 5-line-slot machine written in Python with a kivy GUI.
-You can manipulate the number of symbols on each wheel and the paytable to manipulate the expected return.
-In addition you can run test-rounds, which automatically plays a number of round in fullspeed. 
+You can change the number of symbols on each wheel and the payout of the paytable to manipulate the expected return.
+In addition you can run test-rounds, which automatically plays a number of rounds in fullspeed. 
 
 # Requirements:
 Python (version used: 3.7.4)
